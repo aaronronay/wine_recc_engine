@@ -16,7 +16,7 @@ This script uses the WineRecommender class to process wine data from a CSV file,
 
 1. Place your CSV file containing wine data (e.g., `wine_data_2022.csv`) in the same directory as the script.
 2. Create a text file (e.g., `wine_titles.txt`) containing a list of wine titles you want to generate recommendations for, with each title on a new line.
-3. Run the script using the command: `python script_name.py`
+3. Run the script using the command: `python app.py`
 
 ## Configuration
 
